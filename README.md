@@ -6,7 +6,7 @@ I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Jav
 
 ## Check my Portfolio
 
-### (https://mrsobhan.github.io/sobhandev/)&nbsp; [SobhanDev] ✨✌️
+### (https://mrsobhan.github.io/sobhandev/)[SobhanDev] ✨✌️
 
 ## My Current Tech Stack
 
