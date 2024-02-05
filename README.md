@@ -14,10 +14,13 @@ I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Jav
 
 
 
-[![MrSobhan's github stats](https://github-readme-stats.vercel.app/api?username=MrSobhan&show_icons=true&theme=tokyonight)](https://github.com/MrSobhan/)
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSobhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<center>
+  [![MrSobhan's github stats](https://github-readme-stats.vercel.app/api?username=MrSobhan&show_icons=true&theme=tokyonight)](https://github.com/MrSobhan/)
+  <br/>
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSobhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</center>
 
 ## Support Me
 
