@@ -4,7 +4,7 @@ Web developer (FrontEnd & BackEnd), with more than 2 years of professional exper
 
 I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Javascript
 
-## Check my Portfolio
+## Check my Porofile
 
 ### [SobhanDev](https://mrsobhan.github.io/sobhandev/) ✨✌️
 
@@ -23,7 +23,7 @@ I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Jav
 
 <div>
   <a href="https://t.me/soobhhan">
-  <h6>You don't want to follow me !?</h6>
+  <h5>You don't want to follow me !?</h5>
   </a>
 </div>
 
