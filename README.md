@@ -6,7 +6,7 @@ I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Jav
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Scroll.png" alt="Slightly Smiling Face" width="25" height="25"/> Check my Porofile
 
-### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Slightly Smiling Face" width="25" height="25"/> [SobhanDev](https://mrsobhan.github.io/sobhandev/) ✨✌️
+### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Slightly Smiling Face" width="15" height="15"/> [SobhanDev](https://mrsobhan.github.io/sobhandev/) ✨✌️
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Hot%20Beverage.png" alt="Slightly Smiling Face" width="25" height="25"/>  My Current Tech Stack
 
