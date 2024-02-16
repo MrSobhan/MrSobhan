@@ -4,11 +4,11 @@ Web developer (FrontEnd & BackEnd), with more than 2 years of professional exper
 
 I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Javascript <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png" alt="Slightly Smiling Face" width="25" height="25"/>
 
-## Check my Porofile
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Scroll.png" alt="Slightly Smiling Face" width="25" height="25"/> Check my Porofile
 
-### [SobhanDev](https://mrsobhan.github.io/sobhandev/) ✨✌️
+### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Slightly Smiling Face" width="25" height="25"/> [SobhanDev](https://mrsobhan.github.io/sobhandev/) ✨✌️
 
-## My Current Tech Stack
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Hot%20Beverage.png" alt="Slightly Smiling Face" width="25" height="25"/>  My Current Tech Stack
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="Node.js"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" width="48" title="Regex"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
 
@@ -23,7 +23,7 @@ I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Jav
     <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSobhan&theme=chartreuse-dark&hide_border=true&card_width=450">
 </a>
 
-## Support Me
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Globe%20with%20Meridians.png" alt="Slightly Smiling Face" width="25" height="25"/> Support Me
 <div>
   <a href="https://t.me/soobhhan">
   <h5>You don't want to follow me !?</h5>
