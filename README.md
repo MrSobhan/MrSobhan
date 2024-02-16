@@ -1,4 +1,4 @@
-<h1 align="center">Hello There<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35"/> I'm Sobhan Musazadeh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="35" height="35"/></h1>
+<h1 align="left">Hello There<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35"/> I'm Sobhan Musazadeh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="35" height="35"/></h1>
 
 Web developer (FrontEnd & BackEnd), with more than 2 years of professional experience and motivated, I am looking for a role as a full stack developer. I am interested in building web applications and in my short career I developed a store website for a home appliance company, and in fact, tasks that seem difficult to others give me more energy to work. 🍲🥡
 
@@ -15,15 +15,15 @@ I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Jav
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/> GitHub Stats
-<a href="https://github.com/mrsobhan">
+<a href="https://github.com/MrSobhan">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=IXSALIMO&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false">
 </a>
 
-<a href="https://github.com/mrsobhan">
+<a href="https://github.com/MrSobhan">
     <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IXSALIMO&theme=chartreuse-dark&hide_border=true&card_width=450">
 </a>
-## Support Me
 
+## Support Me
 <div>
   <a href="https://t.me/soobhhan">
   <h5>You don't want to follow me !?</h5>
