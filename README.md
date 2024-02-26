@@ -28,8 +28,6 @@ I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Jav
 <div>
   <a href="https://t.me/soobhhan">
       You don't want to follow me !?
-  </a><br/><br/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30" title="Github"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="30" title="Discord"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="30" title="LinkedIn"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="30" title="LinkedIn"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="30" title="LinkedIn"> 
-</div>
+  </a>
 
 
