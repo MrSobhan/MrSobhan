@@ -25,9 +25,5 @@ I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Jav
 </a>
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Globe%20with%20Meridians.png" alt="Slightly Smiling Face" width="25" height="25"/> Support Me
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Telegram_white.png?raw=true" width="48" title="Sobhan">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png?raw=true" width="48" title="Sobhan">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png?raw=true" width="48" title="Sobhan">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width="48" title="Sobhan">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png?raw=true" width="48" title="Sobhan">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Telegram_white.png?raw=true" width="48" title="Sobhan"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png?raw=true" width="48" title="Sobhan"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png?raw=true" width="48" title="Sobhan"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width="48" title="Sobhan"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png?raw=true" width="48" title="Sobhan">
 
