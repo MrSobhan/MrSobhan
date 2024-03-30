@@ -25,5 +25,7 @@ I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Jav
 </a>
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Globe%20with%20Meridians.png" alt="Slightly Smiling Face" width="25" height="25"/> Support Me
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png?raw=true" width="38" title="Sobhan">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" width="38" title="Sobhan">  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="38" title="Sobhan">
+-- <a href="#"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png?raw=true" width="38" title="Sobhan"> Telegram</a>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" width="38" title="Sobhan">  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="38" title="Sobhan">
 
