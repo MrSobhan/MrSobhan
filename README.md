@@ -2,7 +2,7 @@
 
 Web developer (FrontEnd & BackEnd), with more than 2 years of professional experience and motivated, I am looking for a role as a full stack developer. I am interested in building web applications and in my short career I developed a store website for a home appliance company, and in fact, tasks that seem difficult to others give me more energy to work 🍲🥡
 
-I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and Javascript <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png" alt="Slightly Smiling Face" width="25" height="25"/>
+I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and React js <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png" alt="Slightly Smiling Face" width="25" height="25"/>
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Scroll.png" alt="Slightly Smiling Face" width="25" height="25"/> Check my Porofile
 
