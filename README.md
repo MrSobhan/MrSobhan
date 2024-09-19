@@ -1,6 +1,6 @@
 <h1 align="left">Hello There<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35"/> I'm Sobhan Musazadeh <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Fire.png" alt="Slightly Smiling Face" width="35" height="35"/></h1>
 
-Web developer (FrontEnd & BackEnd), with more than 2 years of professional experience and motivated, I am looking for a role as a full stack developer. I am interested in building web applications and in my short career I developed a store website for a home appliance company, and in fact, tasks that seem difficult to others give me more energy to work 🍲🥡
+Web developer (FrontEnd & BackEnd), with more than 2 years of professional experience and motivated, I am looking for a role as a full stack developer. I am interested in building web applications and in my short career I developed a store website for a home appliance company, and in fact, tasks that seem difficult to others give me more energy to work 🍲🥡❤️
 
 I have a passion for clean code, Javascript, teaching, PHP, Lifeguarding and React js <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png" alt="Slightly Smiling Face" width="25" height="25"/>
 
